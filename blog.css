@@ -114,3 +114,31 @@ h1, h2, h3, h4, h5, h6 {
     font-size: 3.5rem;
   }
 }
+
+.card{
+  width: 34vw;
+  border: 0;
+}
+.pic{
+  
+  width: 300px;
+  height: 300px;
+}
+.picco{
+  width: 500px;
+  height: 500px;
+
+}
+.smallpic{
+  width: 150px;
+  height: 150px;
+}
+
+.japp{
+ 
+  width: 20vw;
+  
+}
+.mhm{
+  height: 40vh;
+}
